@@ -1,0 +1,148 @@
+const students = [
+
+    {
+        roll        : 1,
+        name        : 'Md Saikat',
+        age         : 15, 
+        location    : 'JIbonpur',
+        gender      : 'Male',
+        bn          : 87,
+        en          : 90, 
+        math        : 78,
+        s           : 87, 
+        ss          : 23, 
+        rel         : 95
+    },
+    {
+        roll        : 2,
+        name        : 'Md Srabon',
+        age         : 14, 
+        location    : 'Majhina',
+        gender      : 'Male',
+        bn          : 67,
+        en          : 40, 
+        math        : 78,
+        s           : 87, 
+        ss          : 90, 
+        rel         : 80
+    },
+    {
+        roll        : 3,
+        name        : 'Md Sifat',
+        age         : 15, 
+        location    : 'Angra',
+        gender      : 'Male',
+        bn          : 20,
+        en          : 90, 
+        math        : 78,
+        s           : 87, 
+        ss          : 23, 
+        rel         : 40
+    },
+    {
+        roll        : 4,
+        name        : 'Md Ismail',
+        age         : 17, 
+        location    : 'Jibonpur',
+        gender      : 'Male',
+        bn          : 67,
+        en          : 90, 
+        math        : 78,
+        s           : 87, 
+        ss          : 95, 
+        rel         : 80
+    },
+    {
+        roll        : 5,
+        name        : 'Md Sabbir',
+        age         : 16, 
+        location    : 'Jibonpur',
+        gender      : 'Male',
+        bn          : 67,
+        en          : 40, 
+        math        : 28,
+        s           : 87, 
+        ss          : 90, 
+        rel         : 80
+    },
+    {
+        roll        : 6,
+        name        : 'Md Setu',
+        age         : 15, 
+        location    : 'Uttara',
+        gender      : 'Male',
+        bn          : 20,
+        en          : 90, 
+        math        : 78,
+        s           : 37, 
+        ss          : 23, 
+        rel         : 80
+    },
+    {
+        roll        : 7,
+        name        : 'Md Sadakatul',
+        age         : 16, 
+        location    : 'Majhina',
+        gender      : 'Male',
+        bn          : 67,
+        en          : 50, 
+        math        : 78,
+        s           : 87, 
+        ss          : 23, 
+        rel         : 80
+    },
+    {
+        roll        : 8,
+        name        : 'Md Naimul',
+        age         : 14, 
+        location    : 'Angra',
+        gender      : 'Male',
+        bn          : 67,
+        en          : 40, 
+        math        : 78,
+        s           : 87, 
+        ss          : 90, 
+        rel         : 90
+    },
+    {
+        roll        : 9,
+        name        : 'Ms. Munni',
+        age         : 13, 
+        location    : 'Jibonpur',
+        gender      : 'Female',
+        bn          : 20,
+        en          : 90, 
+        math        : 78,
+        s           : 87, 
+        ss          : 23, 
+        rel         : 80
+    },
+    {
+        roll        : 9,
+        name        : 'Ms. Ranu',
+        age         : 14, 
+        location    : 'Majhina',
+        gender      : 'Female',
+        bn          : 80,
+        en          : 90, 
+        math        : 78,
+        s           : 87, 
+        ss          : 33, 
+        rel         : 80
+    },
+    {
+        roll        : 9,
+        name        : 'Ms. Ayesha',
+        age         : 18, 
+        location    : 'Angra',
+        gender      : 'Female',
+        bn          : 40,
+        en          : 90, 
+        math        : 78,
+        s           : 87, 
+        ss          : 53, 
+        rel         : 80
+    }
+
+];
+
